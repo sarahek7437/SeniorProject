@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Voila!</string>
+    <string name="lesson1_title">Basic Phrases</string>
+    <string name="lesson2_title">Pronouns</string>
+    <string name="lesson3_title">Adjectives</string>
+    <string name="quiz_title">Quiz</string>
+    <string name="lesson4_title">Articles and Gender</string>
+
+    <string name="def_bonj">Bonjour - Hello</string>
+    <string name="def_salut">Salut - Hello</string>
+    <string name="def_stp">S\'il te plaît - Please (informal)</string>
+    <string name="def_svp">S\'il vous plaît - Please (formal)</string>
+    <string name="def_merci">Merci - Thank you</string>
+    <string name="def_dr">De rien - You\'re welcome</string>
+    <string name="def_oui">Oui - Yes</string>
+    <string name="def_non">Non - No</string>
+    <string name="def_jmp">Je m\'appelle... - My name is...</string>
+    <string name="def_je">Je - I</string>
+    <string name="def_tu">Tu - you (sing.)</string>
+    <string name="def_il">Il/elle - He/she</string>
+    <string name="def_vous">Vous - you (plural)</string>
+    <string name="def_ils">Ils/elles - They</string>
+    <string name="def_grand">Grand(e) - Big, grand</string>
+    <string name="def_petit">Petit(e) - Small</string>
+    <string name="def_lela">Le, la - the</string>
+    <string name="def_unune">Un, une - a, an</string>
+    <string name="def_les">Les - the (plural)</string>
+    <string name="def_des">Des - some</string>
+
+    <string name="intro_L1">In this lesson, we will learn some basic phrases.</string>
+    <string name="intro_L2">In this lesson, we will go over pronouns.</string>
+    <string name="intro_L3">In this lesson, we will learn about adjectives.</string>
+    <string name="intro_L4">In this lesson, we will learn about articles and
+        grammatical gender</string>
+
+    <string name="note1"><b>Note:</b> <i>Bonjour</i> is used between strangers and coworkers,
+       while <i>salut</i> is used between friends.</string>
+    <string name="note2"><b>Note:</b> There are two main differences between French and English
+        pronouns.</string>
+    <string name="pronoun_L1"><b>1.</b> There are two ways to say <b>you</b>. <i>Tu</i> is singular
+        (used when speaking to one person) and informal (used with close friends and family).
+        <i>Vous</i> is used when speaking to multiple people or when speaking to one person formally
+        (strangers, coworkers, superiors, etc.)</string>
+    <string name="pronoun_L2"><b>2.</b> There are two ways to say <b>they</b>. <i>Ils</i>
+        is used when speaking about a mixed-gender group. <i>Elles</i> is used when speaking about
+        a group of only female individuals.</string>
+    <string name="adj1">Nouns in French can be either male or female. Likewise, adjectives
+        have both a male and female form. Usually, the female adjective is formed by placing an
+        <i>e</i> on the male adjective.</string>
+    <string name="adj2">Sometimes, the male and female adjectives look different from one
+        another.</string>
+    <string name="gender1">In French, nouns can be either masculine or feminine.</string>
+    <string name="gender2">Masculine nouns use the articles <i>le</i> and <i>un</i>. Feminine
+        nouns use the articles <i>la</i> and <i>une</i>. </string>
+    <string name="article1">In addition to articles changing based on gender, they also change based
+        on number. Plural nouns use the articles <i>les</i> and <i>des</i>.</string>
+
+    <string name="adj_ex1"><i>Ex: intelligent -> intelligente</i></string>
+    <string name="adj_ex2"><i>Ex: beau -> belle</i></string>
+
+    <string name="take_quiz">Take Quiz</string>
+    <string name="quiz_instruct">Select the correct response</string>
+</resources>
